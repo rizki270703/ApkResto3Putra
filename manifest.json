@@ -1,0 +1,22 @@
+{
+    "name": "Resto 3 Putra",
+    "short_name": "Resto 3 Putra",
+    "description": "Aplikasi Resto sederhana dengan javascript PWA",
+    "icons": [
+        {
+            "src": "assets/images/logo-51.png",
+            "sizes": "513x512",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/logo-191.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/rizki270703.github.io",
+    "display": "standalone",
+    "theme_color": "#1F3641",
+    "background_color": "#ffffff",
+    "prefer_related_applications": false
+}
