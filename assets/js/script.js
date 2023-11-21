@@ -25,13 +25,13 @@ const menus = [
     },
     {
         "name": "Kopi",
-        "img": "coffecappucino.png",
+        "img": "cofe.png",
         "price": 25000,
         "type": "Minuman"
     },
     {
         "name": "Jus Mangga",
-        "img": "jusmangga.png",
+        "img": "mangga.png",
         "price": 15000,
         "type": "Minuman"
     },
